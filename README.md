@@ -24,9 +24,9 @@ PlantUML Language Reference Guide  翻译中文版
 
 第八章: liyuanguo
 
-第九章: duanpeng
+第九章: David
 
-第十章：David
+第十章：dengchen
 
 第十一章: lzdaner
 
