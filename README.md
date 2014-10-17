@@ -13,5 +13,14 @@ PlantUML Language Reference Guide  翻译中文版
 
 第四章: 胥锡民
 
+第五章: 唐乾隆
+
+第六章: 克其曲体
+
+第七章: 杨一
+
+第八章: 李远国
+
+第九章: 段朋
 
 [开始阅读](book/index.md)
