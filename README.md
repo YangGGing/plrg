@@ -10,27 +10,27 @@ PlantUML Language Reference Guide  翻译中文版
 
 第一章: 0xC000005
 
-第二章: 李晓东
+第二章: li_xd
 
-第三章: 柴珺晖
+第三章: mis7xy
 
-第四章: 胥锡民
+第四章: X_x
 
-第五章: 唐乾隆
+第五章: tqlbigdata
 
-第六章: 克其曲体
+第六章: galaxy
 
-第七章: 杨一
+第七章: YangGGing
 
-第八章: 李远国
+第八章: liyuanguo
 
-第九章: 段朋
+第九章: duanpeng
 
-第十章：邓程
+第十章：David
 
-第十一章: 刘桓廷
+第十一章: lzdaner
 
-第十二章：邱庆元
+第十二章：qiuqy
 
 
 
