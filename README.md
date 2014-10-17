@@ -3,6 +3,9 @@ plrg
 
 PlantUML Language Reference Guide  翻译中文版
 
+[开始阅读](book/index.md)
+
+
 翻译人员：
 
 第一章: 0xC000005
@@ -30,4 +33,4 @@ PlantUML Language Reference Guide  翻译中文版
 第十二章：邱庆元
 
 
-[开始阅读](book/index.md)
+
